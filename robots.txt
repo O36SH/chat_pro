@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://atash-chat.netlify.app/sitemap.xml
